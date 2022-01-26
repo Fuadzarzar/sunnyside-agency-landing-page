@@ -105,7 +105,7 @@ header {
 /* #### HOME BANNER #### */
 
 #banner-home {
-    background-image: url('/images/desktop/image-header.jpg');
+    background-image: url('./images/desktop/image-header.jpg');
     background-position-y: -100px;
     background-position: center;
     flex-direction: column;
@@ -160,20 +160,20 @@ main {
 }
 
 .egg {
-    background-image: url('/images/desktop/image-transform.jpg');
+    background-image: url('./images/desktop/image-transform.jpg');
 }
 
 .glass {
-    background-image: url('/images/desktop/image-stand-out.jpg');
+    background-image: url('./images/desktop/image-stand-out.jpg');
 }
 
 .cherry {
-    background-image: url('/images/desktop/image-graphic-design.jpg');
+    background-image: url('./images/desktop/image-graphic-design.jpg');
     padding: 4rem 8rem;
 }
 
 .tangerine {
-    background-image: url('/images/desktop/image-photography.jpg');
+    background-image: url('./images/desktop/image-photography.jpg');
     padding: 4rem 8rem;  
 }
 
@@ -267,19 +267,19 @@ a {
 }
 
 #end-galery div:nth-child(1) {
-    background-image: url('/images/desktop/image-gallery-milkbottles.jpg');
+    background-image: url('./images/desktop/image-gallery-milkbottles.jpg');
 }
 
 #end-galery div:nth-child(2) {
-    background-image: url('/images/desktop/image-gallery-orange.jpg');
+    background-image: url('./images/desktop/image-gallery-orange.jpg');
 }
 
 #end-galery div:nth-child(3) {
-    background-image: url('/images/desktop/image-gallery-cone.jpg');
+    background-image: url('./images/desktop/image-gallery-cone.jpg');
 }
 
 #end-galery div:nth-child(4) {
-    background-image: url('/images/desktop/image-gallery-sugarcubes.jpg');
+    background-image: url('./images/desktop/image-gallery-sugarcubes.jpg');
 }
 
 /* #### FOOTER #### */
