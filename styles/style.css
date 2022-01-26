@@ -115,14 +115,6 @@ header {
     width: 100vw;
 }
 
-#bg-banner {
-    height: auto;
-    position: absolute;
-    transform: translateY(-100px);
-    width: 100%;
-    z-index: -1;
-}
-
 .text-content {
     flex-direction: column;
     justify-content: center;
@@ -160,20 +152,20 @@ main {
 }
 
 .egg {
-    background-image: url('../../image-transform.jpg');
+    background-image: url('../desktop/image-transform.jpg');
 }
 
 .glass {
-    background-image: url('../../image-stand-out.jpg');
+    background-image: url('../desktop/image-stand-out.jpg');
 }
 
 .cherry {
-    background-image: url('../../image-graphic-design.jpg');
+    background-image: url('../desktop/image-graphic-design.jpg');
     padding: 4rem 8rem;
 }
 
 .tangerine {
-    background-image: url('../../image-photography.jpg');
+    background-image: url('../desktop/image-photography.jpg');
     padding: 4rem 8rem;  
 }
 
@@ -267,19 +259,19 @@ a {
 }
 
 #end-galery div:nth-child(1) {
-    background-image: url('../../image-gallery-milkbottles.jpg');
+    background-image: url('../desktop/image-gallery-milkbottles.jpg');
 }
 
 #end-galery div:nth-child(2) {
-    background-image: url('../../image-gallery-orange.jpg');
+    background-image: url('../desktop/image-gallery-orange.jpg');
 }
 
 #end-galery div:nth-child(3) {
-    background-image: url('../../image-gallery-cone.jpg');
+    background-image: url('../desktop/image-gallery-cone.jpg');
 }
 
 #end-galery div:nth-child(4) {
-    background-image: url('../../image-gallery-sugarcubes.jpg');
+    background-image: url('../desktop/image-gallery-sugarcubes.jpg');
 }
 
 /* #### FOOTER #### */
